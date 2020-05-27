@@ -1,3 +1,3 @@
 # Google-Books
  
-<img src='img/Pipeline.PNG' style='height:1000px'/>
+<img src='Image/Pipeline.png' style='height:1000px'/>
